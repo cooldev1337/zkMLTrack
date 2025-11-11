@@ -1,0 +1,14 @@
+{
+	"$schema": "https://inlang.com/schema/inlang-message-format",
+	"uiLanguage": "Change language",
+	"changeLanguage": "Change language",
+	"language_en": "English",
+	"language_es": "Spanish",
+	"theme_toggle": "Toggle theme",
+	"theme_light": "Light",
+	"theme_dark": "Dark",
+	"theme_system": "System",
+	"dashboard_create": "Add Model",
+	"dashboard_allvideos": "All Models",
+	"ui_lang": "User Interface Language"
+}
