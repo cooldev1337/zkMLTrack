@@ -1,17 +1,13 @@
 <script module>
 	import { m } from '$lib/paraglide/messages.js';
-	import HandCoinsIcon from "@lucide/svelte/icons/hand-coins";
-	import Settings2Icon from "@lucide/svelte/icons/settings-2";
-	import AudioLinesIcon from "@lucide/svelte/icons/audio-lines";
-	import UserPenIcon from "@lucide/svelte/icons/user-pen";
-	import VideoIcon from "@lucide/svelte/icons/video";
+	import ListTodoIcon from "@lucide/svelte/icons/list-todo";
 
 	const data = {
 		navMain: [
 			{
-				title: m.dashboard_allvideos(),
+				title: m.dashboard_alltasks(),
 				url: "/",
-				icon: Settings2Icon,
+				icon: ListTodoIcon,
 			},
 		],
 	};

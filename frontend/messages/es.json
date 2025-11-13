@@ -7,7 +7,6 @@
 	"theme_light": "Claro",
 	"theme_dark": "Oscuro",
 	"theme_system": "Sistema",
-	"dashboard_create": "Nuevo Modelo",
-	"dashboard_allvideos": "Todos los Modelos",
+	"dashboard_alltasks": "Todos las Tareas",
 	"ui_lang": "Idioma de Interfaz de Usuario"
 }

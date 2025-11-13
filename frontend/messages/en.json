@@ -8,7 +8,6 @@
 	"theme_light": "Light",
 	"theme_dark": "Dark",
 	"theme_system": "System",
-	"dashboard_create": "Add Model",
-	"dashboard_allvideos": "All Models",
+	"dashboard_alltasks": "All Tasks",
 	"ui_lang": "User Interface Language"
 }

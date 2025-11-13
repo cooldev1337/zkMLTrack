@@ -9,26 +9,7 @@
 	let {
 		items,
 	} = $props();
-
-	const createModel = () => {
-		goto("/create-model");
-	}
 </script>
-
-<Sidebar.Group>
-	<Sidebar.Menu>
-		<Sidebar.MenuItem class="flex items-center">
-			<Sidebar.MenuButton
-				class="bg-primary text-primary-foreground hover:bg-primary/90 hover:text-primary-foreground active:bg-primary/90 active:text-primary-foreground min-w-8 duration-200 ease-linear"
-				tooltipContent={m.dashboard_create()}
-				onclick={createModel}
-			>
-				<CirclePlusIcon />
-				<span>{m.dashboard_create()}</span>
-			</Sidebar.MenuButton>
-		</Sidebar.MenuItem>
-	</Sidebar.Menu>
-</Sidebar.Group>
 
 <Sidebar.Group>
 	<Sidebar.Menu>
