@@ -79,9 +79,9 @@ Backend scripts automate:
 * `ezkl prove`
 * Building verifier contract artifacts
 
-✔ **Deploy EZKL Verifier contract (Solidity)**
+✔ **Deploy EZKL Verifier contract**
 
-A deployment script sends the compiled solidity verifier to a network.
+A deployment script sends the compiled verifier to a network.
 Just configure in `.env`:
 
 ```
