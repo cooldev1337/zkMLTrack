@@ -1,0 +1,12 @@
+torch==2.8.0 --index-url https://download.pytorch.org/whl/cpu
+onnx
+onnxscript
+ezkl
+pandas
+scikit-learn
+solc-select
+hummingbird-ml
+flask
+web3
+python-dotenv
+py-solc-x

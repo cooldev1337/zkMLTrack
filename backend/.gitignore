@@ -1,0 +1,12 @@
+# Ignore venv folder
+.venv/
+# Ignore Python cache files
+__pycache__/
+*.pyc
+# Ignore log files
+*.log
+# Ignore environment variable files
+.env
+# Ignore artifcats folder
+artifacts/
+backend/
